@@ -5,7 +5,7 @@ My personal brief notes on various topics from *mathematics* and *theoretical ph
 
 ## Symmetry and the Standard Model
 
-[These]("Stadard&#32;Model/Standard&#32;Model.pdf") are my notes from the first part of the book [*Symmetry and the Standard Model*](https://www.amazon.com/Symmetry-Standard-Model-Mathematics-Particle/dp/1441982663) by M.Robinson (with a couple of paragraphs from [*Physics from Symmetry*](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes/dp/3319666304) by J.Schwichtenberg).
+[These](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Standard%20Model/Standard%20Model.pdf) are my notes from the first part of the book [*Symmetry and the Standard Model*](https://www.amazon.com/Symmetry-Standard-Model-Mathematics-Particle/dp/1441982663) by M.Robinson (with a couple of paragraphs from [*Physics from Symmetry*](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes/dp/3319666304) by J.Schwichtenberg).
 
 **Table of contents**:
 
