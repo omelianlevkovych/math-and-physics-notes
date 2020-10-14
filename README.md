@@ -1,6 +1,6 @@
 # Math and physics notes
 
-My personal brief notes on various topics from *mathematics* and *theoretical physics*. Currently only containing notes on mathematics of the Standard Model of particle physics (*hopefully* other notes will be added in the future). All notes are handwritten and packaged as `.pdf` files.
+My personal brief notes on various topics in *mathematics* and *theoretical physics*. Currently only containing notes on mathematics of the Standard Model of particle physics (*hopefully* other notes will be added in the future). All notes are handwritten and packaged as `.pdf` files.
 
 
 ## Symmetry and the Standard Model
