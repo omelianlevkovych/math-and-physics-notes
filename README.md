@@ -5,7 +5,7 @@ My personal brief notes on various topics in *mathematics* and *theoretical phys
 
 ## Complex Analysis
 
-[Notes](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Mathematics/Complex%20Analysis.pdf) on *Complex Analysis* from [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Elias-M-Stein-ebook/dp/B007K1BYD4) by Stein and Shakarchi, and [*Introduction to Complex Analysis*]() by Shabat.
+[Notes](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Mathematics/Complex%20Analysis.pdf) on *Complex Analysis*. Main sources: [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Elias-M-Stein-ebook/dp/B007K1BYD4) by Stein and Shakarchi, *Introduction to Complex Analysis* by Shabat, and [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Lars-Ahlfors/dp/0070006571) by Ahlfors.
 
 **Table of contents**:
 
@@ -27,11 +27,12 @@ My personal brief notes on various topics in *mathematics* and *theoretical phys
     - 3.4. Residues
     - 3.5. The complex logarithm
     - 3.6. The argument principle and its applications
+    - 3.7. Winding numbers
 
 
 ## Symmetry and the Standard Model
 
-[Notes](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Physics/Standard%20Model.pdf) on *mathematics of the Standard Model of particle physics* from the first part of the book [*Symmetry and the Standard Model*](https://www.amazon.com/Symmetry-Standard-Model-Mathematics-Particle/dp/1441982663) by M.Robinson (with a couple of sections from [*Physics from Symmetry*](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes/dp/3319666304) by J.Schwichtenberg).
+[Notes](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Physics/Standard%20Model.pdf) on *mathematics of the Standard Model of particle physics* from the first part of the book [*Symmetry and the Standard Model*](https://www.amazon.com/Symmetry-Standard-Model-Mathematics-Particle/dp/1441982663) by Robinson (with a couple of sections from [*Physics from Symmetry*](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes/dp/3319666304) by Schwichtenberg).
 
 **Table of contents**:
 
