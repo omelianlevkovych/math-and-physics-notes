@@ -5,6 +5,8 @@ My personal brief notes on various topics in *mathematics* and *theoretical phys
 
 ## Complex Analysis
 
+### Theory
+
 [Notes](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Mathematics/Complex%20Analysis.pdf) on *Complex Analysis*. Main sources: [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Elias-M-Stein-ebook/dp/B007K1BYD4) by Stein and Shakarchi, *Introduction to Complex Analysis* by Shabat, and [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Lars-Ahlfors/dp/0070006571) by Ahlfors.
 
 **Table of contents**:
@@ -28,6 +30,24 @@ My personal brief notes on various topics in *mathematics* and *theoretical phys
     - 3.5. The complex logarithm
     - 3.6. The argument principle and its applications
     - 3.7. Winding numbers
+
+### Practice
+
+[Problems and exercises](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Mathematics/Complex%20Analysis%20(problems).pdf). Main sources: *"Problems and Solutions for Complex Analysis"* by Shakarchi, *"Physical Mathematics"* by Cahill, *"Mathematical Physics"* by Hassani, and *"Mathematical Methods for Physicists"* by Arfken, Harris, and Weber.
+
+**Table of contents**:
+
+1. Complex functions
+2. Limits and power series
+3. The Laurent expansion
+4. Residues
+5. Complex integration
+6. Evaluation of definite integrals
+    - 6.1. Real integrals
+    - 6.2. Jordan's lemma
+    - 6.3. Singularities on a contour
+    - 6.4. Multiple singularities on a contour
+    - 6.5. Avoiding branch cuts
 
 
 ## Symmetry and the Standard Model
