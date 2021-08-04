@@ -5,9 +5,16 @@ My personal brief notes on various topics in *mathematics* and *theoretical phys
 
 ## Complex Analysis
 
-### Theory
+**Main sources**:
 
-[Notes](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Mathematics/Complex%20Analysis.pdf) on *Complex Analysis*. Main sources: [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Elias-M-Stein-ebook/dp/B007K1BYD4) by Stein and Shakarchi, *Introduction to Complex Analysis* by Shabat, and [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Lars-Ahlfors/dp/0070006571) by Ahlfors.
+- Stein and Shakarchi, [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Elias-M-Stein-ebook/dp/B007K1BYD4)
+- Shabat, *Introduction to Complex Analysis*
+- Ahlfors, [*Complex Analysis*](https://www.amazon.com/Complex-Analysis-Lars-Ahlfors/dp/0070006571)
+- Problems and exercises:
+    - Shakarchi, *"Problems and Solutions for Complex Analysis"*
+    - Cahill, *"Physical Mathematics"*
+    - Hassani, *"Mathematical Physics"*
+    - Arfken, Harris, and Weber, *"Mathematical Methods for Physicists"*
 
 **Table of contents**:
 
@@ -30,33 +37,40 @@ My personal brief notes on various topics in *mathematics* and *theoretical phys
     - 3.5. The complex logarithm
     - 3.6. The argument principle and its applications
     - 3.7. Winding numbers
+4. Exercises
+    - 4.1. Complex functions
+    - 4.2. Limits and power series
+    - 4.3. The Laurent expansion
+    - 4.4. Residues
+    - 4.5. Complex integration
+    - 4.6. Evaluation of definite integrals
+        - 4.6.1. Real integrals
+        - 4.6.2. Jordan's lemma
+        - 4.6.3. Singularities on a contour
+        - 4.6.4. Multiple singularities on a contour
+        - 4.6.5. Avoiding branch cuts
 
-### Practice
 
-[Problems and exercises](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Mathematics/Complex%20Analysis%20(problems).pdf). Main sources: *"Problems and Solutions for Complex Analysis"* by Shakarchi, *"Physical Mathematics"* by Cahill, *"Mathematical Physics"* by Hassani, and *"Mathematical Methods for Physicists"* by Arfken, Harris, and Weber.
+## Mathematics (misc.)
 
 **Table of contents**:
 
-1. Complex functions
-2. Limits and power series
-3. The Laurent expansion
-4. Residues
-5. Complex integration
-6. Evaluation of definite integrals
-    - 6.1. Real integrals
-    - 6.2. Jordan's lemma
-    - 6.3. Singularities on a contour
-    - 6.4. Multiple singularities on a contour
-    - 6.5. Avoiding branch cuts
+1. Basic maths (logarithms, trigonometry, sequences, basic analysis)
+2. Linear algebra (linear transformations, determinant, 4 fundamental subspaces)
+3. Real infinite series (convergence and convergence tests)
+4. Tensor fields on manifolds (vector fields; exterior, interior, and Lie derivatives; pullback and pushforward)
+5. Geometry of k-vectors and k-forms
+6. Hodge dual
 
 
 ## Symmetry and the Standard Model
 
-[Notes](https://github.com/fancymanifold/math-and-physics-notes/blob/main/Physics/Standard%20Model.pdf) on *mathematics of the Standard Model of particle physics* from the first part of the book [*Symmetry and the Standard Model*](https://www.amazon.com/Symmetry-Standard-Model-Mathematics-Particle/dp/1441982663) by Robinson (with a couple of sections from [*Physics from Symmetry*](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes/dp/3319666304) by Schwichtenberg).
+**Main sources**:
+
+- Robinson, [*Symmetry and the Standard Model*](https://www.amazon.com/Symmetry-Standard-Model-Mathematics-Particle/dp/1441982663)
+- Schwichtenberg, [*Physics from Symmetry*](https://www.amazon.com/Physics-Symmetry-Undergraduate-Lecture-Notes/dp/3319666304)
 
 **Table of contents**:
-
-<!-- <img align="right" src="Standard Model/img/Robinson (cover).png" height="350"> -->
 
 1. Introduction
     - 1.1. Review of Classical Physics
