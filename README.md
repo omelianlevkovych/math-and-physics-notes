@@ -101,6 +101,8 @@ My personal brief notes on various topics in *mathematics* and *theoretical phys
 ## To be continued... or not ( ͡° ͜ʖ ͡°)
 
 
+## License
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
